@@ -2,8 +2,46 @@
   "title": "team that makes the difference.",
   "teamMembers":[
     {
+      "name": "Christopher Wu",
+      "dig": "Professor, Club Advisor",
+      "img": "/assets/images/team/team-member-five.jpg",
+      "social":[
+        {
+          "icon": "medium",
+          "link": "#"
+        },
+        {
+          "icon": "linkedin",
+          "link": "#"
+        },
+        {
+          "icon": "instagram",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "name": "Changdeok Gim",
+      "dig": "Professor, Project Advisor",
+      "img": "/assets/images/team/team-member-five.jpg",
+      "social":[
+        {
+          "icon": "medium",
+          "link": "#"
+        },
+        {
+          "icon": "linkedin",
+          "link": "#"
+        },
+        {
+          "icon": "instagram",
+          "link": "#"
+        }
+      ]
+    },
+    {
       "name": "Jihee Lee",
-      "dig": "Project Leader",
+      "dig": "President",
       "img": "/assets/images/team/team-member-one.jpg",
       "social":[
         {
@@ -41,7 +79,7 @@
     },
     {
       "name": "Junhee Kim",
-      "dig": "Chief Design Officer",
+      "dig": "ESG Track Leader",
       "img": "/assets/images/team/team-member-three.jpg",
       "social":[
         {
@@ -59,8 +97,8 @@
       ]
     },
     {
-      "name": "Onhyuk Choi",
-      "dig": "UX Researcher",
+      "name": "Jonghyun Moon",
+      "dig": "Ideathon Track Leader",
       "img": "/assets/images/team/team-member-four.jpg",
       "social":[
         {
@@ -78,27 +116,8 @@
       ]
     },
     {
-      "name": "SANTIO ANDRESS",
-      "dig": "Content Researcher",
-      "img": "/assets/images/team/team-member-five.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
+      "name": "Jungseok An",
+      "dig": "ESG Track Member",
       "img": "/assets/images/team/team-member-six.jpg",
       "social":[
         {
@@ -116,8 +135,8 @@
       ]
     },
     {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
+      "name": "Onhyuk Choi",
+      "dig": "Ideathon Track Member",
       "img": "/assets/images/team/team-member-six.jpg",
       "social":[
         {
@@ -135,8 +154,8 @@
       ]
     },
     {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
+      "name": "Dahyun Shim",
+      "dig": "VR/AR Track Member",
       "img": "/assets/images/team/team-member-six.jpg",
       "social":[
         {
