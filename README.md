@@ -1,46 +1,65 @@
-# Roxo Eleventy
-
-Roxo is a digital agency theme for creative agencies, freelancers, graphic designers, photographers. Can be used for any kind of corporate websites who provides digital services with many expertise such as Design, Digital Products, Development, Campaign & Content, Employer Branding, Animation & Motion Graphics ,Packaging & Product Design, Retail & Spacial, Print & Editorial Design, Concept/Text, Information Design etc. Roxo ’s contact form is supported Fabform.io
-
-## Table of Contents
-
--  [Live Demo](#)
--  [Installation](#)
--  [Main Features](#)
--  [Support](#)
--  [Licensing](#)
--  [Hire](#)
+# Lambda Idea Labs
+Welcome to Idea Labs, a dynamic platform designed to foster creativity, collaboration, and innovation. This repository contains the source code for the Idea Labs website hosted at [here](idea-labs.vercel.app.)
 
 ## Live Demo
 
-Checkout the live demo [here](https://roxo-eleventy.staticmania.com/)
+Checkout the live demo [here](idea-labs.vercel.app.)
 
-## Installation
+## Engineer
+<table>
+    <tr><td height="140px" align="center"> <a href=""https://github.com/Dongckim">
+            <img src="https://avatars.githubusercontent.com/Dongckim" width="140px" /> <br><br> Dongchan Alex Kim<br>(System Engineer) </a> <br>
+    </tr>
+<table>
 
-1. Add the repository into your Eleventy Project repository by `git clone https://github.com/StaticMania/roxo-eleventy.git`
+## Core Features
 
-2. Install npm dependencies by `npm install`
+1. Project Ideation and Collaboration
+- Create and share innovative project ideas with a vibrant community.
+- Collaborate with team members through real-time updates and discussions.
 
-3. Build and run project by `npx run dev` and see the result at `http://localhost:8080/`
+2. Resource Sharing
+- Upload and manage documents, links, and other resources.
+- Share resources with our team or make them publicly available.
 
-## Features
+## Project Structure
 
--  Responsive Ready.
--  Powered by Bootstrap 4.
--  Dedicated portfolio and blog page.
--  Well formatted code.
--  Easy Customization.
--  FabForm.io [form backend service](https://fabform.io)
--  Crafted for Design Agency/ Portfolio
-
-## Support
-
-Have some question or facing any technical trouble feel free to [Contact Us](https://staticmania.com/contact/)
+```
+idea-labs/
+├── public/         # Static assets (images, icons, etc.)
+├── src/            # Source code
+│   ├── components/ # Reusable React components
+│   ├── pages/      # Next.js pages
+│   ├── styles/     # CSS and styling files
+│   └── utils/      # Utility functions
+├── README.md       # Project documentation
+├── package.json    # Project dependencies and scripts
+└── next.config.js  # Next.js configuration
+```
 
 ## Licensing
 
 This Repository is licensed under the [MIT](#) License
 
-## Hire
+## Contributing
 
-Need help to build Eleventy websites with your custom requirements. Feel free to [contact](https://staticmania.com/contact/) with us. We provide custom development service for Eleventy.
+We welcome contributions! To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch
+```
+git checkout -b feature-name
+```
+
+3. Commit your changes
+```
+git commit -m "Add feature-name"
+```
+
+4. Push your branch
+```
+git push origin feature-name
+```
+
+5. Create a pull request.
