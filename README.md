@@ -1,4 +1,4 @@
-# Lambda Idea Labs
+# Lambda 5th Idea Labs
 Welcome to Idea Labs, a dynamic platform designed to foster creativity, collaboration, and innovation. This repository contains the source code for the Idea Labs website hosted at [here](idea-labs.vercel.app.)
 
 ## Live Demo
