@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/logo.png",
-  "navLinks":["home","about","portfolio","blog"],
+  "navLinks":["home","about","portfolio", "lambda-flix"],
   "navBtnLink":"contact",
   "navBtnText":"Join us"
 }

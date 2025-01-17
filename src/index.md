@@ -1,12 +1,12 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK TOGETHER, WE MAKE SUCCESS"
+  subTitle: "Innovation and Imagination Transform Into Impactful Outcomes"
   title:
-    firstPara: "Lambda Idea Labs,"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "Limitless Innovation Hub,"
+    secondPara: "Lambda Idea Labs"
   seeWorkBtn:
-    text: "See Our Team Blog"
+    text: "Watch Lambda-Flix"
     link: "#"
   connectBtn: 
     text: "About Us"
@@ -14,7 +14,7 @@ hero:
 
 portfolio:
   subTitle: "OUR ONGOING TRACKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  title: "Crafting Innovation Transform Into Impactful Possibilities"
   seeAllbtn:
     link: "portfolio"
     text: "SEE MORE →"

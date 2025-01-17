@@ -23,25 +23,6 @@
     {
       "name": "Changdeok Gim",
       "dig": "Professor, Project Advisor",
-      "img": "/assets/images/team/team-member-one.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "Jihee Lee",
-      "dig": "President",
       "img": "/assets/images/team/team-member-three.jpg",
       "social":[
         {
@@ -59,9 +40,28 @@
       ]
     },
     {
+      "name": "Jihee Lee",
+      "dig": "President, Data Track Leader",
+      "img": "/assets/images/team/jihee.jpg",
+      "social":[
+        {
+          "icon": "medium",
+          "link": "#"
+        },
+        {
+          "icon": "linkedin",
+          "link": "#"
+        },
+        {
+          "icon": "instagram",
+          "link": "#"
+        }
+      ]
+    },
+    {
       "name": "Dongchan Kim",
-      "dig": "Vice President",
-      "img": "/assets/images/team/team-member-seven.jpg",
+      "dig": "Vice President, 3D Track Leader",
+      "img": "/assets/images/team/dongchan.jpg",
       "social":[
         {
           "icon": "link",
@@ -79,8 +79,8 @@
     },
     {
       "name": "Junhee Kim",
-      "dig": "ESG Track Leader",
-      "img": "/assets/images/team/team-member-five.jpg",
+      "dig": "Treasurer, ESG Track Leader",
+      "img": "/assets/images/team/junhee.jpg",
       "social":[
         {
           "icon": "medium",
@@ -99,7 +99,7 @@
     {
       "name": "Jonghyun Moon",
       "dig": "Ideathon Track Leader",
-      "img": "/assets/images/team/team-member-four.jpg",
+      "img": "/assets/images/team/jonghyun.jpg",
       "social":[
         {
           "icon": "medium",
@@ -117,8 +117,8 @@
     },
     {
       "name": "Jungseok An",
-      "dig": "ESG Track Member",
-      "img": "/assets/images/team/team-member-one.jpg",
+      "dig": "ESG/Data Track Member",
+      "img": "/assets/images/team/team-member-two.jpg",
       "social":[
         {
           "icon": "medium",
@@ -136,8 +136,8 @@
     },
     {
       "name": "Onhyuk Choi",
-      "dig": "Ideathon Track Member",
-      "img": "/assets/images/team/team-member-six.jpg",
+      "dig": "Ideathon/Data Track Member",
+      "img": "/assets/images/team/onhyuk.jpg",
       "social":[
         {
           "icon": "medium",
@@ -155,8 +155,8 @@
     },
     {
       "name": "Dahyun Shim",
-      "dig": "VR/AR Track Member",
-      "img": "/assets/images/team/team-member-one.jpg",
+      "dig": "3D Track Member",
+      "img": "/assets/images/team/team-member-two.jpg",
       "social":[
         {
           "icon": "medium",
