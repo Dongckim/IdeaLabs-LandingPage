@@ -1,7 +1,7 @@
 ---
 layout: "layouts/blog.njk"
 title: "lambda-flix"
-des: "Where Innovation and Imagination Transform Into Impactful Possibilities with NETFLIX🎬 Theme"
+des: "Lambda-Flix is our TEAM BLOG with NETFLIX🎬 Theme, how we transform into impactful possibilities"
 # pagination:
 #   data: collections.blogpost
 #   size: 3
