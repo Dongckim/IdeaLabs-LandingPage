@@ -41,7 +41,7 @@
     },
     {
       "name": "Jihee Lee",
-      "dig": "President, Data Track Leader",
+      "dig": "President, CA(Data) Leader",
       "img": "/assets/images/team/jihee.jpg",
       "social":[
         {
@@ -65,7 +65,7 @@
       "social":[
         {
           "icon": "link",
-          "link": "http://dong-chan.com"
+          "link": "https://dong-chan.com"
         },
         {
           "icon": "linkedin",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Junhee Kim",
-      "dig": "Treasurer, ESG Track Leader",
+      "dig": "Treasurer, CA(ESG) Leader",
       "img": "/assets/images/team/junhee.jpg",
       "social":[
         {
@@ -98,7 +98,7 @@
     },
     {
       "name": "Jonghyun Moon",
-      "dig": "Ideathon Track Leader",
+      "dig": "CA(ESG) Memeber/Ideathon",
       "img": "/assets/images/team/jonghyun.jpg",
       "social":[
         {
@@ -117,7 +117,7 @@
     },
     {
       "name": "Jungseok An",
-      "dig": "ESG/Data Track Member",
+      "dig": "CA(ESG) Memeber",
       "img": "/assets/images/team/team-member-two.jpg",
       "social":[
         {
@@ -136,7 +136,7 @@
     },
     {
       "name": "Onhyuk Choi",
-      "dig": "Ideathon/Data Track Member",
+      "dig": "CA(Data) Memeber/Ideathon",
       "img": "/assets/images/team/onhyuk.jpg",
       "social":[
         {
