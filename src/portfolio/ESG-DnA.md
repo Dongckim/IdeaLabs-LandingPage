@@ -1,6 +1,6 @@
 ---
-subTitle: "ESG D&A" 
-title: "Decoding ESG as the DNA of Sustainable Business Growth"
+subTitle: "Corporate Analysis" 
+title: "ESG D&A: Decoding ESG as the DNA of Sustainable Business Growth"
 img: "/assets/images/projects/project-thumb-two.jpg"
 linkText: "Project Detail"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"

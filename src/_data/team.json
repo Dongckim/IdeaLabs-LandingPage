@@ -7,10 +7,6 @@
       "img": "/assets/images/team/team-member-one.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
           "link": "#"
         },
@@ -30,10 +26,6 @@
           "link": "#"
         },
         {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
           "icon": "instagram",
           "link": "#"
         }
@@ -44,10 +36,6 @@
       "dig": "President, CA(Data) Leader",
       "img": "/assets/images/team/jihee.jpg",
       "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
         {
           "icon": "linkedin",
           "link": "#"
@@ -83,10 +71,6 @@
       "img": "/assets/images/team/junhee.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
           "link": "#"
         },
@@ -101,10 +85,6 @@
       "dig": "CA(ESG) Memeber/Ideathon",
       "img": "/assets/images/team/jonghyun.jpg",
       "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
         {
           "icon": "linkedin",
           "link": "#"
@@ -121,10 +101,6 @@
       "img": "/assets/images/team/team-member-two.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
           "link": "#"
         },
@@ -140,10 +116,6 @@
       "img": "/assets/images/team/onhyuk.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
           "link": "#"
         },
@@ -158,10 +130,6 @@
       "dig": "3D Track Member",
       "img": "/assets/images/team/dahyun.jpg",
       "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
         {
           "icon": "linkedin",
           "link": "#"
