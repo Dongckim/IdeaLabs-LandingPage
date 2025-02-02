@@ -38,11 +38,11 @@
       "social":[
         {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/jiheelee1/"
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/dlwlg_ml/"
         }
       ]
     },
@@ -53,15 +53,15 @@
       "social":[
         {
           "icon": "link",
-          "link": "https://dong-chan.com"
+          "link": "https://dong-chan.com/about"
         },
         {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/dongckim99/"
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/dck_alx/"
         }
       ]
     },
@@ -100,28 +100,21 @@
       "dig": "CA(ESG) Memeber",
       "img": "/assets/images/team/team-member-two.jpg",
       "social":[
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
+
       ]
     },
     {
-      "name": "Onhyuk Choi",
+      "name": "Onhyuck Choi",
       "dig": "CA(Data) Memeber/Ideathon",
       "img": "/assets/images/team/onhyuk.jpg",
       "social":[
         {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/on-hyuck-choi-aa8122336/"
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/on.hyuck/"
         }
       ]
     },
@@ -132,11 +125,11 @@
       "social":[
         {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/dahyun-shim-fit/"
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://www.instagram.com/kdmhoo/"
         }
       ]
     }
