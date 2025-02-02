@@ -37,7 +37,9 @@ Study concept of 3D and Three.js in Web development
 ##### March 2025:
 Ready for Next Project, 3D Immersive 360 Platform with Augmented Reality. 
 
----
+--- 
+
+# 3D 이커머스 웹사이트 제작 프로젝트
 
 ### AR 시대가 다가오고 있습니다.
 마크 저커버그의 AR 글래스 출시로 인해 전 세계적으로 AR 기술에 대한 관심이 급격히 증가했으며, 3D 및 AR 기기의 잠재력이 크게 부각되었습니다. AR 기술은 물리적 세계와 가상 세계를 매끄럽게 통합하여 몰입감 있고 인터랙티브한 경험을 제공하며, 교육, 헬스케어, 리테일 등 다양한 산업에서 혁신적인 변화를 이끌고 있습니다. 이러한 가능성을 인식하고, 우리는 사용자를 중심으로 한 혁신적인 기술을 개발하여 사람들이 기술과 상호작용하는 방식을 재정의하는 것을 목표로 이 프로젝트를 시작했습니다.
@@ -45,9 +47,6 @@ Ready for Next Project, 3D Immersive 360 Platform with Augmented Reality.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DrL7e1yvDAs?si=Z4T4D65fNRqV5Wsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
---- 
-
-# 3D 이커머스 웹사이트 제작 프로젝트
 
 ### AR 산업을 대비합니다.
 차세대 AR은 트래킹, 동적 3D 재구성, 레지스트레이션(Registration), 렌더링, 물리 시뮬레이션 등 다양한 첨단 기술이 융합되어 몰입형 인터랙티브 경험을 제공하는 방향으로 발전하고 있습니다. 여러 렌더링 및 동적 3D 재구성 기법 중에서 우리는 Three.js를 학습의 시작점으로 선택하였으며, 이를 기반으로 프로젝트를 개발하고 해당 핵심 개념을 심화 학습하고자 합니다.
