@@ -8,6 +8,8 @@ featureImg2: "/assets/images/projects/commerce.png"
 ---
 ##### Person In Charge: Dongchan Kim
 
+<br>
+
 ### AR Era is Coming.
 The launch of AR Glass by Mark Zuckerberg has significantly amplified global interest and highlighted the immense potential of 3D and AR devices. AR technology seamlessly integrates the physical and virtual worlds, enabling immersive and interactive experiences that have transformative applications across industries such as education, healthcare, and retail. Recognizing this potential, we initiated this project to pioneer user-centric innovations that deliver meaningful value and redefine how people engage with technology.
 <br>
@@ -43,8 +45,9 @@ Ready for Next Project, 3D Immersive 360 Platform with Augmented Reality.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DrL7e1yvDAs?si=Z4T4D65fNRqV5Wsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br>
-<br>
+--- 
+
+# 3D 이커머스 웹사이트 제작 프로젝트
 
 ### AR 산업을 대비합니다.
 차세대 AR은 트래킹, 동적 3D 재구성, 레지스트레이션(Registration), 렌더링, 물리 시뮬레이션 등 다양한 첨단 기술이 융합되어 몰입형 인터랙티브 경험을 제공하는 방향으로 발전하고 있습니다. 여러 렌더링 및 동적 3D 재구성 기법 중에서 우리는 Three.js를 학습의 시작점으로 선택하였으며, 이를 기반으로 프로젝트를 개발하고 해당 핵심 개념을 심화 학습하고자 합니다.
