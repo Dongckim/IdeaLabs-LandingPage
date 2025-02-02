@@ -6,6 +6,8 @@ linkText: "view project"
 featureImg1: "/assets/images/projects/commerce.png"
 featureImg2: "/assets/images/projects/commerce.png"
 ---
+##### Person In Charge: Dongchan Kim
+
 ### AR Era is Coming.
 The launch of AR Glass by Mark Zuckerberg has significantly amplified global interest and highlighted the immense potential of 3D and AR devices. AR technology seamlessly integrates the physical and virtual worlds, enabling immersive and interactive experiences that have transformative applications across industries such as education, healthcare, and retail. Recognizing this potential, we initiated this project to pioneer user-centric innovations that deliver meaningful value and redefine how people engage with technology.
 <br>
