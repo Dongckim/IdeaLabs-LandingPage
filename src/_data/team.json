@@ -48,7 +48,7 @@
     },
     {
       "name": "Dongchan Kim",
-      "dig": "Vice President, 3D Track Leader",
+      "dig": "Vice President, C2C Leader",
       "img": "/assets/images/team/dongchan.jpg",
       "social":[
         {
@@ -72,17 +72,13 @@
       "social":[
         {
           "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/junhee-k-2794052a2/"
         }
       ]
     },
     {
       "name": "Jonghyun Moon",
-      "dig": "CA(ESG) Member/Ideathon",
+      "dig": "CA(ESG), Ideathon Leader",
       "img": "/assets/images/team/jonghyun.jpg",
       "social":[
         {
@@ -105,7 +101,7 @@
     },
     {
       "name": "Onhyuck Choi",
-      "dig": "CA(Data) Member/Ideathon",
+      "dig": "CA(Data), Ideathon Member",
       "img": "/assets/images/team/onhyuk.jpg",
       "social":[
         {

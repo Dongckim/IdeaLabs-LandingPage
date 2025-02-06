@@ -1,8 +1,8 @@
 ---
 layout: "layouts/contact.njk"
-title: "Don’t be shy. Say "
-subTitle: Hello.
-formTitle: "Tell us about your project"
+title: "Innovation and Imagination transform into "
+subTitle: Impactful Outcomes.
+formTitle: "Tell us about you 🚀🚀"
 btnText: "Join us"
 ---
 
