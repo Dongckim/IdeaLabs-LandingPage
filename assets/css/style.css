@@ -398,7 +398,7 @@ textarea.form-control {
 }
 .site-project-item-content, .site-blog-post-content {
   position: absolute;
-  background: transparent;
+  background: #fff;
   width: 100%;
   padding: 45px 50px;
   bottom: 0;

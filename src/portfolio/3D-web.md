@@ -1,10 +1,10 @@
 ---
 subTitle: "Web 3D - Three.js" 
 title: "3D E-Commerce Website Project"
-img: "/assets/images/projects/commerce.png"
+img: "/assets/images/projects/3d/1.webp"
 linkText: "Project Detail"
-featureImg1: "/assets/images/projects/commerce.png"
-featureImg2: "/assets/images/projects/commerce.png"
+featureImg1: "/assets/images/projects/3d/commerce.png"
+featureImg2: "/assets/images/projects/3d/3d.png"
 ---
 ##### Person In Charge: Dongchan Kim
 

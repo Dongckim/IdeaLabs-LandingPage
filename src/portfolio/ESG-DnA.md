@@ -1,10 +1,10 @@
 ---
 subTitle: "Corporate Analysis" 
 title: "ESG D&A: Decoding ESG as the DNA of Sustainable Business Growth"
-img: "/assets/images/projects/project-thumb-two.jpg"
+img: "/assets/images/projects/ca/1.png"
 linkText: "Project Detail"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/ca/2.jpeg"
+featureImg2: "/assets/images/projects/ca/3.jpeg"
 ---
 ##### Person In Charge: Jihee Lee, Junhee Kim
 
