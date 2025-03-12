@@ -1,23 +1,23 @@
 {
   "title": "How Other Rates us",
-  "des": "What others say about our project.",
+  "des": "What others say about our team.",
   "opinion":[
     {
       "name": "Christopher Wu",
       "dig": "Professor, SUNY Korea",
-      "img": "/assets/images/testimonial/user-thumb-one.jpg",
-      "comment": "TBD"
-    },
-    {
-      "name": "Andrew Hwang",
-      "dig": "CEO, SocialBump",
-      "img": "/assets/images/testimonial/user-thumb-two.jpg",
+      "img": "/assets/images/team/prof2.jpg",
       "comment": "TBD"
     },
     {
       "name": "Changdeok Gim",
       "dig": "Professor, SUNY Korea",
-      "img": "/assets/images/testimonial/user-thumb-three.jpg",
+      "img": "/assets/images/team/prof1.png",
+      "comment": "LAMBDA is one leading student research consortium at SUNY Korea, dedicated to sprouting, translating, and implementing ideas into tangible innovations. LAMBDA is an incubating platform wherein students investigate, diagnose, reflect on sociotechnical issues, and propose solutions to complex real-world challenges by engaging communities, researchers, social groups, and stakeholders in reflective deliberation. The LAMBDA vanguard curates and orchestrates individual research projects, and explores uncharted territories by fostering interactive discussion, proactive approaches armed with curiosity, refined skills, audacious actions, and considerate proposals. Beyond a serving community constituted of invigorated students, LAMBDA pursues a symbiotic relationship between academia, society, and learners at a preeminent university, SUNY Korea. The focused co-beneficial nexus will scaffold students’ evolutionary academic development in the short-term as well as, in the long-term, generate broader contributions to solving sociotechnical challenges our future may face."
+    },
+    {
+      "name": "Andrew Hwang",
+      "dig": "CEO, SocialBump",
+      "img": "/assets/images/testimonial/user-thumb-two.jpg",
       "comment": "TBD"
     }
   ]

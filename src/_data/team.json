@@ -18,8 +18,8 @@
       "img": "/assets/images/team/prof1.png",
       "social":[
         {
-          "icon": "link",
-          "link": "https://water.uci.edu/changdeok-gim/"
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/changdeok-gim-811126a4/"
         }
       ]
     },
@@ -88,7 +88,10 @@
       "dig": " Research Showcase Leader, CA(ESG)",
       "img": "/assets/images/team/jungsuk.jpg",
       "social":[
-
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/achang__27/"
+        }
       ]
     },
     {
