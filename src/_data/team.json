@@ -4,30 +4,22 @@
     {
       "name": "Christopher Wu",
       "dig": "Professor, Club Advisor",
-      "img": "/assets/images/team/team-member-one.jpg",
+      "img": "/assets/images/team/prof2.jpg",
       "social":[
         {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "icon": "link",
+          "link": "https://fsh.sunykorea.ac.kr/fsh/html/sub04/0401.html?mode=V&mng_no=1fff734cd460103024754a2ebff1d958"
         }
       ]
     },
     {
       "name": "Changdeok Gim",
       "dig": "Professor, Project Advisor",
-      "img": "/assets/images/team/team-member-three.jpg",
+      "img": "/assets/images/team/prof1.png",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "icon": "link",
+          "link": "https://water.uci.edu/changdeok-gim/"
         }
       ]
     },
